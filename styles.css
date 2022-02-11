@@ -1,0 +1,17 @@
+h1 {
+    color: aqua;
+}
+
+body {
+    background-color: #460021;
+    color: wheat;
+    flex: auto;
+}
+
+a {
+    color: #000;
+}
+
+button {
+    border: 5px 5px lawngreen; width: auto; height: 30px;
+}
